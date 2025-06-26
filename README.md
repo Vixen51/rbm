@@ -7,7 +7,7 @@
 * Put as much information as you can
 
 ## Roadmap
-* [Link](https://github.com/Vixen51/rbm/issues)
+* [Link](https://github.com/users/Vixen51/projects/4)
 * Rough plan, not set in stone
 
 ## Summer Opener (06/2025)
