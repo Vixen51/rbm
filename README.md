@@ -10,9 +10,10 @@
 * [Link](https://github.com/users/Vixen51/projects/4)
 * Rough plan, not set in stone
 
-## Summer Opener (06/2025)
-* [Milestone state overview](https://github.com/users/Vixen51/projects/2/views/1)
-* [Table with all milestone tasks](https://github.com/users/Vixen51/projects/2/views/3)
+## Updates
+| Name          | Date      | Overview                                                        | Tasks                                                        |
+|---------------|-----------|-----------------------------------------------------------------|--------------------------------------------------------------|
+| Summer Opener | (06/2025) | [Overview](https://github.com/users/Vixen51/projects/2/views/1) | [Tasks](https://github.com/users/Vixen51/projects/2/views/3) |
 
 ## Tips
 * You can subscribe to any issue, so you will be notified if state or something else changes
