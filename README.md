@@ -11,9 +11,10 @@
 * Rough plan, not set in stone
 
 ## Updates
-| Name          | Date      | Overview                                                        | Tasks                                                        |
-|---------------|-----------|-----------------------------------------------------------------|--------------------------------------------------------------|
-| Summer Opener | (06/2025) | [Overview](https://github.com/users/Vixen51/projects/2/views/1) | [Tasks](https://github.com/users/Vixen51/projects/2/views/3) |
+| Name          | Date         | Overview                                                        | Tasks                                                        |
+|---------------|--------------|-----------------------------------------------------------------|--------------------------------------------------------------|
+| Summer Opener | (30/06/2025) | [Overview](https://github.com/users/Vixen51/projects/2/views/1) | [Tasks](https://github.com/users/Vixen51/projects/2/views/3) |
+| Fiximus Prime | (15/07/2025) | [Overview](https://github.com/users/Vixen51/projects/8/views/2) | [Tasks](https://github.com/users/Vixen51/projects/8/views/1) |
 
 ## Tips
 * You can subscribe to any issue, so you will be notified if state or something else changes
